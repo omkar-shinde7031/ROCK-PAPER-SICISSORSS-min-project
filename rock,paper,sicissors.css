@@ -2,13 +2,17 @@
   margin: 0;
   padding: 0;
   text-align: center;
+  background-color: #ADEED9;
 }
 
 h1 {
-  background-color: #081b31;
+  background-color: #0ABAB5;
   color: #fff;
   height: 5rem;
   line-height: 5rem;
+  border-radius: 50px;
+  text-decoration: none;
+  font-style: italic;
 }
 
 .choice {
@@ -64,5 +68,6 @@ img {
   font-size: 2rem;
   display: inline;
   padding: 1rem;
-  border-radius: 1rem;
+  border-radius: 50px 30px;
+  
 }
