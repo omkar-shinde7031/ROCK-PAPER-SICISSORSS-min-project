@@ -5,4 +5,5 @@
 - Score tracking for user and computer
 - Responsive design
 - Easy to use and understand
+  ![image alt](https://github.com/omkar-shinde7031/ROCK-PAPER-SICISSORSS-min-project/blob/main/Screenshot%202025-06-29%20153012.png?raw=true)
 
